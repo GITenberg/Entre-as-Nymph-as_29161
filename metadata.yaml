@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33487
     wikipedia: http://pt.wikipedia.org/wiki/Marques_de_Carvalho
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29161#Entre-as-Nymph-as
 gutenberg_bookshelf: PT Contos
 gutenberg_issued: '2009-06-19'
 gutenberg_type: Text
