@@ -1,0 +1,33 @@
+_repo: Entre-as-Nymph-as_29161
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Carvalho, João Marques de
+    aliases:
+    - Marques de Carvalho, João
+    - Carvalho, Marques de
+    - De Carvalho, João Marques
+    - Carvalho, Joao Marques de
+    birthdate: 1866
+    deathdate: 1910
+    gutenberg_agent_id: '33487'
+    url: http://www.gutenberg.org/2009/agents/33487
+    wikipedia: http://pt.wikipedia.org/wiki/Marques_de_Carvalho
+description: ''
+gutenberg_bookshelf: PT Contos
+gutenberg_issued: '2009-06-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29161'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Brazilian literature'
+- !lcc 'PQ'
+title: Entre as Nymphéas
+url: http://www.gutenberg.org/ebooks/29161
